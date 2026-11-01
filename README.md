@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Iniobong
 
-<!--
-**inilogy/inilogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Azure cloud and DevOps engineer** based in Finland.
+Higher National Diploma in Computer Science. Learning in public.
 
-Here are some ideas to get you started:
+## What I'm learning right now
+- Networking and Linux fundamentals
+- Azure administration, working towards AZ-104
+- Infrastructure as Code, Kubernetes and CI/CD next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow my progress
+- Daily notes: [learning-log](https://github.com/inilogy/learning-log)
+- Projects: added here as I finish them, each with an architecture diagram, infrastructure code and a runbook
+
+## Tools I'm learning
+Azure, Linux, Git and GitHub, Bash, PowerShell, Terraform, Bicep, Docker, Kubernetes
